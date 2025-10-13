@@ -18,5 +18,5 @@ Hugo Jermaks, Alvians Voronovs, Georgs Strogonovs
  |-----|------|-----|
 |Georgs|Was doing github thing and writing text for presentation|06.10.2025|
 |Hugo|was searching for a template that could be used to create a website|06.10.2025|
-|Jaromirs| Was explaining to hugo that you cannot put a picture in a template without using code and was searching for examples of watch online shops|06.10.2025|
+|Jaromirs| "Was explaining to hugo that you cannot put a picture in a template without using code" like a dum ahh because it can be done and was searching for examples of watch online shops|06.10.2025|
 
