@@ -16,7 +16,8 @@ Hugo Jermaks, Alvians Voronovs, Georgs Strogonovs
 
  |Name|Description|Date|
  |-----|------|-----|
-|Georgs|Was doing github thing and writing text for presentation|06.10.2025|
+|Georgs|This week I worked on my project and made good progress because I improved some parts and fixed a few problems that made it work better.
+I also added new ideas and now the project looks much better and more complete than before.|06.10.2025|
 |Jaromirs| "Was explaining to hugo that you cannot put a picture in a template without using code" like a dum ahh because it can be done and was searching for examples of watch online shops|06.10.2025|
 |Hugo|tested out the templates and looked for possible inventory that could be sold in the store|13.10.2025|
 
