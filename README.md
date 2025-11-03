@@ -16,8 +16,8 @@ Hugo Jermaks, Alvians Voronovs, Georgs Strogonovs
 
  |Name|Description|Date|
  |-----|------|-----|
-|Georgs|This week I worked on my project and made progress because I improved some parts with searching information about watches and other things to make our website work better.|13.10.2025|
-|Jaromirs| "Was explaining to hugo that you cannot put a picture in a template without using code" like a dum ahh because it can be done and was searching for examples of watch online shops|06.10.2025|
-|Hugo|tested out the templates and looked for possible inventory that could be sold in the store|13.10.2025|
+|Georgs|learnd sum on how to change the layout|27.11.2025|
+|Jaromirs| started to do the google sheet|27.11.2025|
+|Hugo|did a bit of reserch on djungle|27.11.2025|
 
 
