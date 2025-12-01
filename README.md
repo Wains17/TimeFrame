@@ -16,8 +16,8 @@ Hugo Jermaks, Alvians Voronovs, Georgs Strogonovs
 
  |Name|Description|Date|
  |-----|------|-----|
-|Georgs|learnd sum on how to change the layout|27.11.2025|
-|Jaromirs| started to do the google sheet|27.11.2025|
-|Hugo|did a bit of reserch on djungle|27.11.2025|
+|Georgs|learnd sum on how to change the layout|01.12.2025|
+|Jaromirs| started to do the google sheet|01.12.2025|
+|Hugo|did a bit of reserch on djungle|01.12.2025|
 
 
