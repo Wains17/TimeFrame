@@ -16,8 +16,8 @@ Hugo Jermaks, Alvians Voronovs, Georgs Strogonovs
 
  |Name|Description|Date|
  |-----|------|-----|
-|Georgs|learnd sum on how to change the layout|01.12.2025|
-|Jaromirs| started to do the google sheet|01.12.2025|
-|Hugo|did a bit of reserch on djungle|01.12.2025|
+|Georgs|worked on the homework, and did github|06.04.2026|
+|Jaromirs|started looking into how to make the customer support email work|06.04.2026|
+|Hugo|agein started to edit and add ont the template|06.04.2026|
 
 
