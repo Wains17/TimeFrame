@@ -16,8 +16,8 @@ Hugo Jermaks, Alvians Voronovs, Georgs Strogonovs
 
  |Name|Description|Date|
  |-----|------|-----|
-|Georgs|worked on the homework, and did github|06.04.2026|
-|Jaromirs|started looking into how to make the customer support email work|06.04.2026|
-|Hugo|agein started to edit and add ont the template|06.04.2026|
+|Georgs|found the "better quality pictures and desing elements" that still looked bad when uploaded|13.04.2026|
+|Jaromirs|took over after my crash out, wathed a bit of coding then started to edit, which didnt end up better|13.04.2026|
+|Hugo|started to swich out pictures, because the prewious had bad quality, but the new ones werent better, so i crashed out|13.04.2026|
 
 
